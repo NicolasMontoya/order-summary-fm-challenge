@@ -102,6 +102,10 @@ body{
   }
 }
 
+.attribution{
+  display: none;
+}
+
 @media only screen and (min-width: 600px) {
   .order-summary {
     background-image: url('../assets/images/pattern-background-desktop.svg');
